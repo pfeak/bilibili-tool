@@ -1,0 +1,6 @@
+.venv/
+
+.env
+
+*.toml
+uv.lock
